@@ -1,0 +1,6 @@
+{
+  "name": "NS PRAY APP",
+  "description": "Aplikasi Agama Islam lengkap dengan format per ayat, bacaan shalat, doa harian, dzikir, sunnah, dan panduan Qiyamul Lail",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
